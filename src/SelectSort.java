@@ -1,4 +1,5 @@
 public class SelectSort {
+    String licheng="Sb";
     /**
      * 直接选择排序
      */
