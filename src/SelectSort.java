@@ -1,6 +1,6 @@
 public class SelectSort {
     
-    String Huangzhiwei="Sb";
+    String wanghui="shuai";
     /**
      * 直接选择排序
      */
