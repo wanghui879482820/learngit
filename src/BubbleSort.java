@@ -1,5 +1,6 @@
 public class BubbleSort {
     public static void main(String[] args) {
+        String wh="王辉是爸爸";
         //创建一个数组,这个数组是乱序的
         int[] array={63,4,24,1,3,15};
         //new出来一个对象,用来排序,跟调用排序方法
